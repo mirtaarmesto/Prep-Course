@@ -6,7 +6,8 @@
       <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=03-JS-II">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        Hacé click acá para dejar tu feedback sobre esta clase. VOLVIENDO A INTENTAR
+    
       </a>
     </td>
   </tr>
@@ -19,7 +20,7 @@
 <!-- En esta lección cubriremos:
 
 * `Undefined` y `null`
-* Operadores de comparación (continuación)
+* Operadores de comparación (continuación) mas los cambios que quiera probar en esta linea de codigo
 * Flujos de control (continuación)
 * Operados lógicos
 * Bucles `for`
